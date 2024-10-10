@@ -92,7 +92,7 @@ img {
 }
 
 .nav-link.active {
-    color:rgb(170, 0, 255);
+    color:blueviolet;
     border-radius: 5px; 
 }
 
@@ -100,3 +100,39 @@ h3 {
     color:blueviolet;
 }
 
+.custom-border {
+    background-color: blueviolet; 
+    border-color: blueviolet;
+    color: white;
+    margin-left: 20px;
+}
+
+
+a {
+  color: white;
+  font-family: "Anek Bangla";
+}
+
+
+.btn-custom {
+    background-color: blueviolet; 
+    color: white;
+    border: none; 
+  }
+
+
+  .divider:after,
+  .divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+  }
+  .h-custom {
+  height: calc(100% - 73px);
+  }
+  @media (max-width: 450px) {
+  .h-custom {
+  height: 100%;
+  }
+  }
