@@ -17,10 +17,6 @@ O projeto EvFinder tem como objetivo principal facilitar a descoberta e a compra
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
- - CSS
- - JS
- - Bootstrap
 ## Autores
 - Pietro Freire Rezende dos Santos - GitHub - pietrosantos15
 
